@@ -1,7 +1,7 @@
 # stuart_portfolio
 Portfolio of my WIP and finished projects.
 
-# Project 1) Clustering Analysis 
+# Project 1) [Clustering Analysis](https://github.com/jstuartpieri/players_skill_cluster_analysis)
 
 Blablabla
 
