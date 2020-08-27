@@ -1,9 +1,9 @@
 # stuart_portfolio
 Portfolio of my WIP and finished projects.
 
-## Project 1) [Clustering Analysis](https://github.com/jstuartpieri/players_skill_cluster_analysis)
+# Project 1) [Clustering Analysis](https://github.com/jstuartpieri/players_skill_cluster_analysis)
 
-# Using KNN Clustering:
+## Using KNN Clustering:
 
 
 ![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/clustering_img2.png) 
