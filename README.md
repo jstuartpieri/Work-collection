@@ -9,7 +9,7 @@ Blablabla
 
 # Project 3) Regressor to predict wind shear values
 
-# Project 4) [Scrapping and Analyzing OLX car's data] (https://github.com/jstuartpieri/scrapping_carros_olx)
+# Project 4) [Scrapping and Analyzing OLX car's data](https://github.com/jstuartpieri/scrapping_carros_olx)
 
 # Project 5) AWS API wind characterists batch run extraction, processing and Analyssis
 
