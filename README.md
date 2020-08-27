@@ -3,6 +3,10 @@ Portfolio of my WIP and finished projects.
 
 # Project 1) [Clustering Analysis](https://github.com/jstuartpieri/players_skill_cluster_analysis)
 
+
+![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/clustering_img2.png)
+![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/clustering_img.png)
+
 Blablabla
 
 # Project 2) Classifier to predict wind profiles using load sensors
