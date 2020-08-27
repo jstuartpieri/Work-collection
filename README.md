@@ -1,2 +1,18 @@
 # stuart_portfolio
 Portfolio of my WIP and finished projects.
+
+# Project 1) Clustering Analysis 
+
+Blablabla
+
+# Project 2) Classifier to predict wind profiles using load sensors
+
+# Project 3) Regressor to predict wind shear values
+
+# Project 4) Scrapping and Analyzing OLX car's data
+
+# Project 5) AWS API wind characterists batch run extraction, processing and Analyssis
+
+# Project 6) LATAM onshore wind Marketing Analysis (Tableau vizualization)
+
+# Project 7) MongoDB localhost configuration to store scrapped rotten tomatoes movies data
