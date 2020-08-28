@@ -11,7 +11,7 @@ This was a case proposed by iClinic. Objective was having 3 datasets (players, m
 * Dendrogram Analysis
 * Agglomerative cluster -- using 6 clusters to split players (used wins and defeat features to cluster ensembling).
 
-![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/clustering_img.png)
+![](images/clustering_img.png)
 
 
 # Project 2) [Buying a used car - Scrapping and Analyzing OLX car's data](https://github.com/jstuartpieri/scrapping_carros_olx)
@@ -23,7 +23,7 @@ I wanted to buy a new car so I decided to scrape OLX plataform which contain mul
 * Wrangling data to met some chosen criterias and exported to a csv file.
 * Analyzed the data using excel to choose potential good offers.
 
-![](https://github.com/jstuartpieri/scrapping_carros_olx/blob/master/images/image.png)
+![](images/image.png)
 
 # Project 3) AWS truepower API wind characterists batch run extraction, processing and Analyssis
 
@@ -41,7 +41,7 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
 * Covered analytics were:
   * Prospect and wind resources, Region Overview, Competitive Landscape, Customer Overview, OEM Selection, Turbines Selection.
   
- ![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/fe5790bb-b90b-499e-81bc-2c7ac71215d7.png)
+ ![](images/fe5790bb-b90b-499e-81bc-2c7ac71215d7.png)
 
 # Project 5) MongoDB localhost configuration to store scrapped rotten tomatoes movies data
 
