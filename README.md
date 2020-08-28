@@ -52,8 +52,8 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
 
 # Project 6) Classifier to predict wind profiles using load sensors
 
-WIP, EDA - Semptember 15th.
+WIP, EDA - September 15th.
 
 # Project 7) Regressor to predict wind shear values
 
-WIP, EDA - Semptember 15th.
+WIP, EDA - September 15th.
