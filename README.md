@@ -14,15 +14,7 @@ This was a case proposed by iClinic. Objective was having 3 datasets (players, m
 ![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/clustering_img.png)
 
 
-# Project 2) Classifier to predict wind profiles using load sensors
-
-WIP, EDA - Semptember 15th.
-
-# Project 3) Regressor to predict wind shear values
-
-WIP, EDA - Semptember 15th.
-
-# Project 4) [Buying a used car - Scrapping and Analyzing OLX car's data](https://github.com/jstuartpieri/scrapping_carros_olx)
+# Project 2) [Buying a used car - Scrapping and Analyzing OLX car's data](https://github.com/jstuartpieri/scrapping_carros_olx)
 
 I wanted to buy a new car so I decided to scrape OLX plataform which contain multiple ads from people wanting to sell their cars. Then a simple preprocessing was done in order to: clean some bad formated data and add some other filterings. Processed dataset was exported to a csv file and excel was used to do the final checkings and explore possible good car offers.
 
@@ -33,7 +25,7 @@ I wanted to buy a new car so I decided to scrape OLX plataform which contain mul
 
 ![](https://github.com/jstuartpieri/scrapping_carros_olx/blob/master/images/image.png)
 
-# Project 5) AWS truepower API wind characterists batch run extraction, processing and Analyssis
+# Project 3) AWS truepower API wind characterists batch run extraction, processing and Analyssis
 
 AWS Truepower holds a database with huge amount of wind related characteristics measures in a global scope. This exercise was done to extract some wanted sites wind characteristics that were used by marketing team to find sites with Tier 1 wind conditions.
 
@@ -43,7 +35,7 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
 * Data processing and data wrangling to prepare data to be ingested in Tableau along many other internal datasets.
 * Tableau ensembling to give a global viz of wind onshore characteristics using AWS truepower wind data.
 
-# Project 6) LATAM onshore wind Marketing Analysis (Tableau vizualization)
+# Project 4) LATAM onshore wind Marketing Analysis (Tableau vizualization)
 
 * Using multiple datasets some API extracted others GE internal was created a vizualization to cover some LATAM onshore wind marketing analytics.
 * Covered analytics were:
@@ -51,8 +43,17 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
   
  ![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/fe5790bb-b90b-499e-81bc-2c7ac71215d7.png)
 
-# Project 7) MongoDB localhost configuration to store scrapped rotten tomatoes movies data
+# Project 5) MongoDB localhost configuration to store scrapped rotten tomatoes movies data
 
 * Scrapped Rotten Tomatoes data and exported in JSON format.
 * Configured a localhost MongoDB server using 2 shards, each with 3 replicasets to store data extracted.
 * Imported rotten tomatoes JSON formatted extracted data to MongoDB shards.
+
+
+# Project 6) Classifier to predict wind profiles using load sensors
+
+WIP, EDA - Semptember 15th.
+
+# Project 7) Regressor to predict wind shear values
+
+WIP, EDA - Semptember 15th.
