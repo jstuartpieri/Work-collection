@@ -37,7 +37,7 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
 
 # Project 4) LATAM onshore wind Marketing Analysis (Tableau vizualization)
 
-* Using multiple datasets some API extracted others GE internal was created a vizualization to cover some LATAM onshore wind marketing analytics.
+* Using multiple datasets some API extracted others GE internal was created an interative dashboard to  provide vizualization  covering LATAM onshore wind marketing analytics.
 * Covered analytics were:
   * Prospect and wind resources, Region Overview, Competitive Landscape, Customer Overview, OEM Selection, Turbines Selection.
   
