@@ -13,6 +13,8 @@ Blablabla
 
 # Project 4) [Scrapping and Analyzing OLX car's data](https://github.com/jstuartpieri/scrapping_carros_olx)
 
+![](https://github.com/jstuartpieri/scrapping_carros_olx/blob/master/images/image.png)
+
 # Project 5) AWS API wind characterists batch run extraction, processing and Analyssis
 
 # Project 6) LATAM onshore wind Marketing Analysis (Tableau vizualization)
