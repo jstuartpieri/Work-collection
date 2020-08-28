@@ -3,6 +3,8 @@
 
 # Project 1) [Clustering Analysis to balance player skills of a generic cellphone game](https://github.com/jstuartpieri/players_skill_cluster_analysis)
 
+This was a case proposed by iClinic. Objective was having 3 datasets (players, matches and goals) analyze those and find a way to gather in groups players with simillar skil level on a generic cellphone game in order to balance the level of the matches,
+
 * Used their API to get players data.
 * Used SQL (postgres) to extract Matches and Goals tables.
 * Data processing and data wrangling to prepare data to be ingested in the cluster model.
@@ -22,6 +24,8 @@ WIP, EDA - Semptember 15th.
 
 # Project 4) [Buying a used car - Scrapping and Analyzing OLX car's data](https://github.com/jstuartpieri/scrapping_carros_olx)
 
+I wanted to buy a new car so I decided to scrape OLX plataform which contain multiple ads from people wanting to sell their cars. Then a simple preprocessing was done in order to: clean some bad formated data and add some other filterings. Processed dataset was exported to a csv file and excel was used to do the final checkings and explore possible good car offers.
+
 * Scrapy framework used along with Python to scrape car's data from OLX site.
 * Pre-processing to correct some bad formatted data and delete some missing values rows.
 * Wrangling data to met some chosen criterias and exported to a csv file.
@@ -30,6 +34,8 @@ WIP, EDA - Semptember 15th.
 ![](https://github.com/jstuartpieri/scrapping_carros_olx/blob/master/images/image.png)
 
 # Project 5) AWS truepower API wind characterists batch run extraction, processing and Analyssis
+
+AWS Truepower holds a database with huge amount of wind related characteristics measures in a global scope. This exercise was done to extract some wanted sites wind characteristics that were used by marketing team to find sites with Tier 1 wind conditions.
 
 This project was done to marketing intelligence GE Renewable Energy team and it's confidential, so code and image previas can not be disclosed.
 
@@ -43,7 +49,7 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
 * Covered analytics were:
   * Prospect and wind resources, Region Overview, Competitive Landscape, Customer Overview, OEM Selection, Turbines Selection.
   
- 
+ ![](https://github.com/jstuartpieri/stuart_portfolio/blob/master/images/fe5790bb-b90b-499e-81bc-2c7ac71215d7.png)
 
 # Project 7) MongoDB localhost configuration to store scrapped rotten tomatoes movies data
 
