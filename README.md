@@ -3,7 +3,7 @@
 
 # Project 1) [Clustering Analysis to balance player skills of a generic cellphone game](https://github.com/jstuartpieri/players_skill_cluster_analysis)
 
-his case was proposed by iClinic. Objective was to: Having 3 datasets (players, matches and goals) analyze those and find a way to gather in groups players with simillar skill level from a generic cellphone game in order to balance the level of the matches.
+This case was proposed by iClinic. Objective was to: Having 3 datasets (players, matches and goals) analyze those and find a way to gather in groups players with simillar skill levels from a generic cellphone game in order to balance the level of the matches.
 
 * Used their API to get players data.
 * Used SQL (postgres) to extract Matches and Goals tables.
@@ -14,14 +14,14 @@ his case was proposed by iClinic. Objective was to: Having 3 datasets (players, 
 ![](images/clustering_img.png)
 
 
-# Project 2) [Buying a used car - Scrapping and Analyzing OLX car's data](https://github.com/jstuartpieri/scrapping_carros_olx)
+# Project 2) Buying a used car - Scrapping and Analyzing OLX car's data collection
 
 I wanted to buy a new car so I decided to scrape OLX plataform which contain multiple ads from people wanting to sell their cars. A simple preprocessing was done in order to: clean some bad formated data and add some other filterings. Processed dataset was exported to a csv file and excel was used to do the final checkings and explore possible good car ads, offers.
 
-* Scrapy framework used along with Python to scrape car's data from OLX site.
+* Scrapy framework was used along with Python to scrape car's data from OLX site.
 * Pre-processing to correct some bad formatted data and delete some missing values rows.
 * Wrangling data to met some chosen criterias and exported to a csv file.
-* Analyzed the data using excel to choose potential good offers.
+* Analyzed the processed data using excel to choose potential good offers.
 
 ![](images/image.png)
 
@@ -35,11 +35,10 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
 * Data processing and data wrangling to prepare data to be ingested in Tableau along many other internal datasets.
 * Tableau ensembling to give a global viz of wind onshore characteristics using AWS truepower wind data.
 
-# Project 4) LATAM onshore wind Marketing Analysis (Tableau vizualization)
+# Project 4) LATAM onshore wind Marketing Analytics dashboards (Tableau vizualization)
 
-* Using multiple datasets some API extracted others GE internal was created an interative dashboard to  provide vizualization  covering LATAM onshore wind marketing analytics.
-* Covered analytics were:
-  * Prospect and wind resources, Region Overview, Competitive Landscape, Customer Overview, OEM Selection, Turbines Selection.
+* Using multiple sources datasets it was created an interative dashboard to provide marketing analytics intelligence covering LATAM onshore wind market.
+* Covered topics: Prospect and wind resources, Region Overview, Competitive Landscape, Customer Overview, OEM Selection, Turbines Selection.
   
  ![](images/fe5790bb-b90b-499e-81bc-2c7ac71215d7.png)
 
@@ -50,10 +49,14 @@ This project was done to marketing intelligence GE Renewable Energy team and it'
 * Imported rotten tomatoes JSON formatted extracted data to MongoDB shards.
 
 
-# Project 6) Classifier to predict wind profiles using load sensors
+# Project 6) (Analytics Engineering Program - GE) - Classifier to predict wind speed profiles using load sensors
 
-WIP, EDA - September 15th.
+This case was proposed by GE Engoneering team, goal was to through data collected by load sensors create a model to classify wind speed profiles.
+This project has confidential information, so code and image previas can not be disclosed.
 
-# Project 7) Regressor to predict wind shear values
+# Project 7) (Analytics Engineering Program - GE) - Regressor to predict wind shear values
 
-WIP, EDA - September 15th.
+This case was proposed by GE Engoneering team, goal was to through data collected by load sensors create a model to predict wind shear values.
+This project has confidential information, so code and image previas can not be disclosed.
+
+![]https://drive.google.com/file/d/13iMUcAiZro7yv_NydYqR4JdxD53LGiq9/view
