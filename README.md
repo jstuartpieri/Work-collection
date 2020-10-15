@@ -59,4 +59,4 @@ This project has confidential information, so code and image previas can not be 
 This case was proposed by GE Engoneering team, goal was to through data collected by load sensors create a model to predict wind shear values.
 This project has confidential information, so code and image previas can not be disclosed.
 
-![]https://drive.google.com/file/d/13iMUcAiZro7yv_NydYqR4JdxD53LGiq9/view
+![](https://drive.google.com/file/d/13iMUcAiZro7yv_NydYqR4JdxD53LGiq9/view)
